@@ -10,11 +10,6 @@ What you can do:
    - search person name and number in your contact book
    - exit/quit/terminate program
 
-The first function creates the menu we will be selecting from
-In order to use the menu I created a variable where I 
-Collect user input and is stored in the variable. I also return 
-The value of the user input and create an instance 
-Of the function to pass to the second function. 
 
 
 
