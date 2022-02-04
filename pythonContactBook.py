@@ -28,7 +28,7 @@ def closeProgram(nm):
     if nm == 3:
         quit()
 
-
+#---------------------main function------------
 dict1 = {}
 while True:
     nm = navigationMenu( )
